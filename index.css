@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+
+.section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 200px 0px;
+    background-color: aqua;
+}
+
+img {
+    opacity: 0;
+    transition: 1000ms;
+}
